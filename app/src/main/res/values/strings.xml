@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Collection</string>
+    <string name="welcome">Welcome To Game Collection App</string>
+    <string name="deitel_logo">Deitel\'s bug logo</string>
+    <string name="word">Words</string>
+    <string name="house">house.png</string>
+    <string name="details">The color match game is a game that increases concentration and accuracy in a person.In this game, you have to choose the desired color from the color palette and turn it upwards.Now select the game level: </string>
+
+</resources>
